@@ -7,4 +7,7 @@
 !.yarn/versions
 
 .vim/
+
 yarn-error.log
+
+dist/
